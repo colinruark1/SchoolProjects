@@ -1,0 +1,6 @@
+COURSE SCHEDULER
+Used Java alongside an SQL database to create an application for Admin and Students to schedule Classes. 
+Functionality Includes:
+Adding Semesters, Classes/Courses, Students, and the Semester Schedule to various Databases for optimal information retrieval
+Methods to add/remove students, add/drop classes, and to waitlist students when a class is filled
+Display Schedules according to necessary information
